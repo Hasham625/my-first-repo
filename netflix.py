@@ -219,4 +219,7 @@ os.system('git commit -m "Add .gitignore file"')
 # git commit -m "Initial commit with EDA and visualizations"
 # git remote add origin <your_github_repo_url>
 # git push -u origin master
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1de6f7c (Initial commit)
